@@ -1,0 +1,1 @@
+# Generalized-Zero-and-Few-Shot-Transfer-for-Facial-Forgery-Detection
